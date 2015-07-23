@@ -9,9 +9,10 @@ The codes of the modified part and other suplementary files are stored in this p
 The solver is also uploaded with an example case file. 
 
 Folders：
-hRhoThermo:  This folder should be put  
-hRhoSimplecFoam:   Solver
+hRhoThermo:  This folder should be put  thermalphysics/basic/rhoThermo/hRhoThermo folder.
 
-FIT:	compiled shared object for properties of CO2. The source code of FIT property module cannot 
+hRhoSimplecFoam:   Solver that solve steady-state single-phase compressible N-S eqns.
+
+FIT:	compiled shared object for properties of CO2. The source code of FIT property module cannot be released to public currently.
 
 CO1:	example test case for supercritical CO2 flow through a circular orifice.
