@@ -7,3 +7,8 @@ The shared codes are based on the open source CFD code OpenFOAM. Its thermophysi
 
 The codes of the modified part and other suplementary files are stored in this project. 
 The solver is also uploaded with an example case file. 
+
+Folders：
+hRhoThermo  This folder should be put  
+hRhoSimplecFoam   Solver
+
